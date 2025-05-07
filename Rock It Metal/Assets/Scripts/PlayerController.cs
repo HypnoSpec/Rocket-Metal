@@ -24,5 +24,10 @@ public class PlayerController : MonoBehaviour
         {
             speed = 2;
         }
+
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
     }
 }
