@@ -14,6 +14,7 @@ Controls:
 
 - AD to move Left & Right
 - Left Click on a surface to use Grappling Hook
+- Esc to close the game
 
 Assets used:
 
@@ -39,6 +40,6 @@ https://www.youtube.com/watch?v=Gx46xUgVXrQ
 by MoreBBlakeyyy on YouTube:
 https://www.youtube.com/watch?v=ObMK6jUsWPE
 
-Character sprite and level designs were created by me.
+Character sprite, minor additional sprites and level designs were created by me.
 
 Thanks for playing!!! :)
